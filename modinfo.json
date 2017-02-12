@@ -1,0 +1,23 @@
+{
+    "context": "client",
+    "identifier": "com.pa.conundrum.cLongerPing",
+    "display_name": "Longer Pings",
+    "description": "Makes map pings stick around 3x as long so you don't miss them.",
+    "author": "Captain Conundrum",
+    "version": "1.0.0",
+    "build": "94684",
+    "date": "2017/02/12",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/rel-longer-pings-titans-and-classic.72320/",
+    "category": [
+        "ui"
+    ],
+    "live_game": [
+    ],
+    "id": "cLongerPing",
+    "icon": "http://i.imgur.com/kvmvynq.png",
+    "priority": 500,
+    "enabled": true,
+    "dependencies": [
+    ]
+}
